@@ -1,7 +1,7 @@
 {
 "companyName": "Articruz S.A.",
 "productName": "Virtual Gallery",
-"productVersion": "0.1",
+"productVersion": "0.3",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
